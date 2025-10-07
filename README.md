@@ -114,7 +114,7 @@ Open to: OSS collabs, tooling/platform discussions, code reviews
   <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
   <a href="mailto:gunadirenta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-4a5568?logo=gmail&logoColor=white"></a>
-  -->
+  
 </p>
 
 ---
