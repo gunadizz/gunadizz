@@ -40,7 +40,6 @@
 - Focus: Developer Experience (DX), AI-assisted tooling, and GitHub automation
 - Problem spaces: developer tooling, platform engineering, distributed systems
 - I enjoy: shipping small OSS utilities that improve CI/CD and productivity
-- Tip: pin your best repositories on the profile for quick discovery
 
 > Great DX compounds. Small daily improvements → massive leverage.
 
@@ -111,11 +110,10 @@ Open to: OSS collabs, tooling/platform discussions, code reviews
 ## 📫 Contact
 <p>
   <a href="https://github.com/gunadizz"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0F172A?logo=github&logoColor=white"></a>
-  <!-- Add more links when ready:
+    <a href="https://gunadi.tech"><img alt="Website" src="https://img.shields.io/badge/Website-1f2937?logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/YOUR_HANDLE"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
+  <a href="https://x.com/"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
   <a href="mailto:gunadirenta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-4a5568?logo=gmail&logoColor=white"></a>
-  <a href="https://gunadi.tech"><img alt="Website" src="https://img.shields.io/badge/Website-1f2937?logo=google-chrome&logoColor=white"></a>
   -->
 </p>
 
